@@ -1,0 +1,1 @@
+This project deals with the intricacies of Emacs, the more user friendly text editor.
