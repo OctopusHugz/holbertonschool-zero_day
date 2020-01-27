@@ -1,0 +1,1 @@
+This project deals with tackling vi, a strong emacs alternative.
