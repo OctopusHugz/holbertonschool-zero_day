@@ -1,1 +1,1 @@
-*Out here coding at Holberton*
+*This project is the first project at Holberton and focuses on Vagrant, Emacs, vi, and Git.*
