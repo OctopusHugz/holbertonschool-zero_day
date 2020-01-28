@@ -1,0 +1,1 @@
+This project takes a little dive into the fundamentals of Git, a version control system.
